@@ -1,12 +1,10 @@
 import { useApp } from "../ThemedApp";
-
-import {
-    Box,
-    AppBar,
-    ToolBar,
-    Typography,
-    IconButton,
-} from "@mui/icons-material";
+// Components from MUI Material
+import AppBar from "@mui/material/AppBar";
+import ToolBar from "@mui/material/Toolbar";
+import Typography from "@mui/material/Typography";
+import Box from "@mui/material/Box";
+import IconButton from "@mui/material/IconButton";
 
 import {
     Menu as MenuIcon,
